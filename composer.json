@@ -10,7 +10,7 @@
     "issues": "https://forge.typo3.org/projects/extension-gridelements2/issues"
   },
   "require": {
-    "typo3/cms-core": "9.0.0",
+    "typo3/cms-core": "9.0.0-9.9.99"
   },
   "replace": {
     "gridelements": "self.version",
