@@ -26,7 +26,7 @@ It offers a lot of new features like advanced drag & drop or real references, th
     'author_company' => '',
     'constraints' => [
         'depends' => [
-            'typo3' => '8.7.0-8.99.99',
+            'typo3' => '9.0.0-9.99.99',
         ],
         'conflicts' => [
             'templavoila' => '',
